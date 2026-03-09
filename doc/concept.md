@@ -2,8 +2,8 @@
 ### Arneth, Fahradyan
 > - Full problem description:
     Jeder Spieler hat einen Taster und eine LED.
-    Die Onboard-LED des Pico gibt das Startsignal.
-    Nach einer zufälligen Wartezeit leuchtet die Onboard-LED auf.
+    Die LED der Buttons des MEGA 2560 geben das Startsignal.
+    Nach einer zufälligen Wartezeit leuchtet die LED auf.
     Beide Spieler drücken so schnell wie möglich ihren Taster.
     Die LED des schnelleren Spielers leuchtet als Zeichen für den Sieger.
 > - Einteilung:
