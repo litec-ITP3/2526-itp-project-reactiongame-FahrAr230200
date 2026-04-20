@@ -18,3 +18,6 @@
  09.03.26 
 -Planänderung(Viel Zeitaufwand): nicht der Eingebaute LED gibt das startsignal sondern die LED Buttons, weil sie durch den GROVE base shield verdeckt wird.
 -Code Fortschritt: Startsignal, Tasterzuweisung und weiters Brainstorming
+
+ 20.04.26
+ - Startsignal, Zeitmessung, Gewinnerausgabe + Zeitausgabe, 
