@@ -20,4 +20,10 @@
 -Code Fortschritt: Startsignal, Tasterzuweisung und weiters Brainstorming
 
  20.04.26
- - Startsignal, Zeitmessung, Gewinnerausgabe + Zeitausgabe, 
+ - Startsignal, Zeitmessung, Gewinnerausgabe + Zeitausgabe,
+ - Konzept etwas umgeschrieben 
+
+ 27.04.26 
+ - Gewinnerausgabe OLed Display
+ - Johanna: Oled Display Erweiterung gemacht
+ - Arsen: Installations- und Bedienungsanleitung gemacht 
